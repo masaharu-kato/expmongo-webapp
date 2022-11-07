@@ -1,0 +1,19 @@
+{
+  "name": "expmongo-webapp",
+  "version": "0.1.0",
+  "description": "Node.js & MongoDB based Web application example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masaharu-kato/expmongo-webapp.git"
+  },
+  "author": "Masaharu KATO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masaharu-kato/expmongo-webapp/issues"
+  },
+  "homepage": "https://github.com/masaharu-kato/expmongo-webapp#readme"
+}
